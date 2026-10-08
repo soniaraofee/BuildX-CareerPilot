@@ -178,7 +178,7 @@ Do not rename, remove, or add keys.
 
 Example:
 
-{
+{{
     "improved_summary": "Computer Engineering student with experience in Python, Git, and Linux, seeking opportunities in backend development.",
     "highlighted_skills": [
         "Python",
@@ -190,7 +190,7 @@ Example:
         "Highlight practical Linux experience.",
         "Place the most relevant technical skills near the top of the resume."
     ]
-}
+}}
 """
 
     result = ask_agent(prompt)
