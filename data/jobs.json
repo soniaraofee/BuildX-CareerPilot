@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Backend Developer Intern",
+    "company": "TechNova",
+    "location": "Tehran",
+    "type": "Internship",
+    "remote": true,
+    "description": "We are looking for a motivated computer science or computer engineering student interested in backend development.",
+    "requirements": [
+      "Python",
+      "Git",
+      "REST API",
+      "Basic SQL"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Python Backend Intern",
+    "company": "DataFlow",
+    "location": "Tehran",
+    "type": "Internship",
+    "remote": true,
+    "description": "Join our backend team and work on Python-based web services and APIs.",
+    "requirements": [
+      "Python",
+      "Git",
+      "SQL",
+      "Linux"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Frontend Developer Intern",
+    "company": "WebCraft",
+    "location": "Tehran",
+    "type": "Internship",
+    "remote": false,
+    "description": "We are looking for a frontend intern interested in building modern web interfaces.",
+    "requirements": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Analyst Intern",
+    "company": "InsightLab",
+    "location": "Remote",
+    "type": "Internship",
+    "remote": true,
+    "description": "Work with datasets and create reports and visualizations for business teams.",
+    "requirements": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Junior Python Developer",
+    "company": "CloudSoft",
+    "location": "Tehran",
+    "type": "Full-time",
+    "remote": true,
+    "description": "Entry-level Python developer position for candidates with programming and backend fundamentals.",
+    "requirements": [
+      "Python",
+      "Git",
+      "Django",
+      "SQL"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Linux System Intern",
+    "company": "ServerHub",
+    "location": "Tehran",
+    "type": "Internship",
+    "remote": false,
+    "description": "Learn and work with Linux servers, basic networking and system administration.",
+    "requirements": [
+      "Linux",
+      "Networking",
+      "Bash",
+      "Git"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "C++ Software Intern",
+    "company": "EmbeddedWorks",
+    "location": "Tehran",
+    "type": "Internship",
+    "remote": false,
+    "description": "Software engineering internship focused on C++ programming and algorithms.",
+    "requirements": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Git"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "AI/ML Intern",
+    "company": "NeuralTech",
+    "location": "Remote",
+    "type": "Internship",
+    "remote": true,
+    "description": "Internship for students interested in machine learning and data science.",
+    "requirements": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Machine Learning"
+    ]
+  }
+]
